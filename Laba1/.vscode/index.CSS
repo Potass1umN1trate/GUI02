@@ -1,0 +1,1265 @@
+ body{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: red; */
+ }
+
+
+.image1{
+    position: relative;
+    width:100%;
+    height:100%;
+    margin-bottom: 0px;
+}
+
+
+
+ .toptext{
+    position: absolute;
+    top:0px;
+    width: 100%;
+    height:100px;
+}
+
+ .Promo{
+    width: 10.6%;
+    top:1.95vw;
+    position: absolute;
+    left: 11.19%;
+    
+}
+
+ .im{
+    position:relative;
+    margin-bottom: -4px;
+    width: 100%;
+ }
+
+.CafeName{
+    line-height: 2vw;
+    font-family: 'Yeseva One';
+    font-size: 2vw;
+    position: relative;
+    text-align: center;
+    margin:0px;
+    top:70%;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+p{
+    width: auto;
+    height:auto;
+    color:white;
+}
+
+
+
+.Home{
+    font-family: 'Gentium Book Basic', serif;
+    width: auto;
+    height: 6vw;
+    position: absolute;
+    left: 34.25%;
+    top:0px;
+    font-size: 1.38vw;
+    color:white;
+    border:  rgba(255, 255, 255, 0) solid 0.4vw;
+    background: none;
+    
+} 
+
+.Home:hover{
+    border-top: rgba(255, 255, 255, 0.8) solid 0.35vw;
+}
+
+.About{
+    font-family: 'Gentium Book Basic', serif;
+    width: auto;
+    height: 6vw;
+    position: absolute;
+    font-size: 1.38vw;
+    color:white;
+    border: rgba(255, 255, 255, 0) solid 0.35vw;
+    background: none;
+    left: 40.9%;
+}
+
+
+.About:hover{
+    border-top: rgba(255, 255, 255, 0.8) solid 0.35vw;
+}
+
+.Ingredients{
+    font-family: 'Gentium Book Basic', serif;
+    width: auto;
+    height: 6vw;
+    position: absolute;
+    font-size: 1.38vw;
+    color:white;
+    border: rgba(255, 255, 255, 0) solid 0.35vw;
+   
+    background: none;
+    left: 47.5%;
+}
+
+.Ingredients:hover{
+    border-top: rgba(255, 255, 255, 0.8) solid 0.35vw;
+}
+
+.Menu{
+    font-family: 'Gentium Book Basic', serif;
+    width: auto;
+    height: 6vw;
+    position: absolute;
+    font-size: 1.38vw;
+    color:white;
+    border: rgba(255, 255, 255, 0) solid 0.35vw;
+    background: none;
+    left: 57.1%;
+}
+
+.Menu:hover{
+    border-top: rgba(255, 255, 255, 0.8) solid 0.35vw;
+}
+
+.Reviews{
+    font-family: 'Gentium Book Basic', serif;
+    width: auto;
+    height: 6vw;
+    position: absolute;
+    font-size: 1.38vw;
+    color:white;
+    border: rgba(255, 255, 255, 0) solid 0.35vw;
+   
+    background: none;
+    left: 63.75%;
+}
+
+.Reviews:hover{
+    border-top: rgba(255, 255, 255, 0.8) solid 0.35vw;
+}
+
+.Reservations{
+    font-family: 'Gentium Book Basic', serif;
+    width: auto;
+    height: 6vw;
+    position: absolute;
+    font-size: 1.38vw;
+    color:white;
+    border: rgba(255, 255, 255, 0) solid 0.35vw;
+    background: none;
+    left: 71.7%;
+  
+}
+
+.Reservations:hover{
+    border-top: rgba(255, 255, 255, 0.8) solid 0.35vw;
+}
+
+
+.icons{
+    width: 6vw;
+    height: 30px;
+    position: absolute;
+    top: 2.5vw;
+    left:82%;
+    
+}
+
+#T1{
+    color: rgb(218, 179, 62);
+    position: absolute;
+    font-size: 1.1vw;
+}
+
+#T1:hover{
+    color: rgba(218, 179, 62, 0.7);
+    cursor: pointer;
+}
+
+#Y1
+{
+    color: rgb(218, 179, 62);
+
+    position: absolute;
+    font-size: 1.1vw;
+     left: 37%;
+}
+
+#Y1:hover{
+    color: rgba(218, 179, 62, 0.7);
+    cursor: pointer;
+}
+
+#F1{
+    color: rgb(218, 179, 62);
+    position: absolute;
+    font-size: 1.1vw;
+    left: 75%;
+}
+
+#F1:hover{
+    color: rgba(218, 179, 62, 0.7);
+    cursor: pointer;
+}
+
+.text1{
+    text-align: center;
+    font-family: 'Yeseva One';
+    position: absolute;
+    top: 125px;
+    left:19.6%;
+    top: 17.8%;
+    font-size: 5.87vw;
+    
+}
+
+.decor1{
+    position:absolute;
+    top: 29.5vw; 
+    left: 42.75%;
+    width: 15.3vw;
+}
+
+.buttons{
+    width: 32.4vw;
+    height:3.8vw;
+    position: absolute;
+    top: 34.1vw;
+    left: 34%;
+
+}
+
+.toBook{
+    height: 3.8vw;
+    width: 46.6%;
+    color:white;
+    font-size: 1.3vw;
+    font-family: 'Lato', sans-serif;
+    border: solid 1px rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.56);
+}
+
+.toBook:hover{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.toSeeMenu{
+    position: absolute;
+    left:53.1%;
+    height: 3.86vw;
+    width: 46.6%;
+    font-size: 1.3vw;
+    border: solid 1px white;
+    color:white;
+    font-family: 'Lato', sans-serif;
+    background-color: rgba(255, 255, 255, 0.196);
+
+}
+
+.toSeeMenu:hover{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+.image2{
+    position: relative;
+    width:100%;
+    height: 100%;
+    margin-bottom: -4px;
+
+}
+
+
+
+.text2{
+    position: absolute;
+    top:6.7vw;
+    left: 17%;
+    width: 28%;
+    height:31.5vw;
+
+}
+
+.RightFood{
+    font-family: 'Yeseva One';
+    position: relative;
+    top: -2.6vw;
+    font-size:2.4vw;
+    color: rgb(204, 153, 0);
+    text-align: center;
+
+}
+
+.blablabla{
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    color:rgb(76,76,76);
+    text-align: center;
+    font-size: 1.04vw;
+}
+
+.decor2{
+    position:absolute;
+    top: 4vw; 
+    left: 19.5%;
+    width: 16.5Svw;
+    height: 1.7vw;
+}
+
+.cook{
+    position: absolute;
+    left: 9vw;
+    top:16vw;
+    width: 15.7vw;
+    height:15vw;
+}
+
+.dish{
+    position: absolute;
+    left: 46.18%;
+    width: 39%;
+    height: 41vw;
+    top:2vw;
+}
+
+.image3{
+    position: relative;
+    width:100%;
+    height:100%;
+}
+
+.workArea{
+    position: absolute;
+    left: 50.9375%;
+    top: 6.25vw;
+    width: 35.7%;
+    height: 35.9vw;
+    background-color: rgba(0, 0, 0, 0.67);
+   
+}
+
+.FineI{
+    position: relative;
+    font-family: 'Yeseva One';
+    margin: 0px;
+    font-size: 2.34vw;
+    text-align: center;
+    top: 14.9%;
+ 
+}
+
+.decor3{
+    position:absolute;
+    top: 23.8779%;
+    left:28%;
+    width: 16vw;
+}
+
+.blablabla2{
+    margin: 0px;
+    font-size: 1.04vw;
+    position:absolute; 
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    top: 33.57%;
+    left: 13.7%;
+
+}
+
+.ThreeCircle{
+    display: grid;
+    grid-template-columns: 33.33333333333%;
+    gap:0px;
+    grid-template-areas: 
+        "A B C";
+    position:relative;
+    top: 55%;
+    
+}
+
+.wheat{
+    display:grid;
+    grid-area: A;
+    justify-self: end;
+}
+.spices{
+    display:grid;
+    grid-area: B;
+    justify-self: center;
+    
+}
+.bread{
+    display:grid;
+    grid-area: C;
+    justify-self: start;
+}
+
+.imwheat{
+    width:7.34vw;
+}
+
+.imspices{
+    width:7.34vw;
+}
+
+.imbread{
+    width:7.34vw;
+}
+
+.image4{
+    position: relative;
+    width: 100%;
+}
+
+.MenuList{
+    position: absolute;
+    left:17.5vw;
+    top:6vw;
+    width:65.125%;
+    height:50.375vw;
+    border:1px black solid;
+}
+
+.Appetisers{
+    position: absolute;
+    width: 26.875vw;
+    height: 26.875vw;
+    text-align: center;
+    border:red 2px solid;
+    
+}
+
+
+.Salads{
+    position: absolute;
+    top: 26.875vw;
+    width: 26.875vw;
+    height: 23vw;
+    text-align: center;
+    border:red 2px solid;
+}
+
+.MainDishes{
+    top:20.45vw;
+   left:37.3vw;
+    position: absolute;
+    width: 26.875vw;
+    height: 29.5vw;
+    text-align: center;
+    border:red 2px solid;
+}
+.Starters{
+    float:right;
+    position: relative;
+    width: 26.875vw;
+    height: 20.125vw;
+    text-align: center;
+    border:red 2px solid;
+}
+
+.Dishes{
+    color: #cc9900;
+    font-family: 'Yeseva One', cursive;
+    font-size: 2.25vw;    
+    margin: 0px;
+    
+}
+
+.Appet{
+    color: #cc9900;
+    font-family: 'Yeseva One', cursive;
+    font-size: 2.25vw;    
+    margin: 0px;
+    
+}
+
+.Start{
+    color: #cc9900;
+    font-family: 'Yeseva One', cursive;
+    font-size: 2.25vw;    
+    margin: 0px;
+}
+
+.Salad{
+    color: #cc9900;
+    font-family: 'Yeseva One', cursive;
+    font-size: 2.25vw;    
+    margin: 0px;
+}
+
+.decor4-1{
+    position:absolute;
+    width: 15.43vw;
+    margin:0px;
+    top:3.625vw;
+    left:5.7vw;
+}
+
+.Cornish{
+    position: absolute;
+    display: grid;
+    top:7.40vw;
+    width:100%;
+    height:4.125vw; 
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+.Lamb{
+    position: absolute;
+    display: grid;
+    top:13.3vw;
+    width:100%;
+    height:4.125vw;
+    border:#cc9900 solid 1px;
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+.Chicken{
+    position: absolute;
+    display: grid;
+    top:19.33vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+
+.Pastitsio{
+    position: absolute;
+    display: grid;
+    top:25.5vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+.Olive{
+    position: absolute;
+    display: grid;
+    top:6.99vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+
+.Greek{
+    position: absolute;
+    display: grid;
+    top:12.9vw;
+    left:-5%;
+    width:110%;
+    height:4.125vw;
+    border:#cc9900 solid 1px;
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+.Gusto{
+    position: absolute;
+    display: grid;
+    top:19.125vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+.Haloumi{
+    position: absolute;
+    display: grid;
+    top:6.99vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+.Spinach{
+    position: absolute;
+    display: grid;
+    top:12.9vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+.Tzatsiki{
+    position: absolute;
+    display: grid;
+    top:6.99vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+    justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+
+}
+
+.Aubergin{
+    position: absolute;
+    display: grid;
+    top:12.9vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+}
+
+.AuberginSalad{
+    position: absolute;
+    display: grid;
+    top:19.125vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+}
+
+.Label1{
+   position: relative;
+    width:4.31vw;
+    height:1.4vw;
+    margin:0px;
+    top:8.9vw;
+    float: right;
+    background-color:  #cc9900;
+   
+}
+
+.L{
+    font-family: 'Lato', sans-serif;
+    font-size: 0.875vw;
+    margin: 0px;
+}
+
+.Position{
+    position: absolute;
+    display: grid;
+    color:#cc9900;
+    margin: 0px;
+    font-family: 'Yeseva One', cursive;
+    grid-area: A;
+    font-size: 1.31vw;
+    line-height: 1.5vw;
+}
+
+.Aubergin2{
+    position: absolute;
+    display: grid;
+    top:19vw;
+    width:100%;
+    height:4.125vw;
+     
+align-content: space-between;
+justify-content: space-between;
+    grid-template-areas: 
+    "A B"
+    "C C"
+    "D D";
+}
+#G1{
+    margin-left: 6.4%;
+}
+
+
+
+.Cost{
+    position: relative;
+    display: grid;
+    margin:0px;
+    color:#cc9900;
+    float: right;
+    font-size: 1.31vw;
+    line-height: 1.5vw;
+    
+    grid-area: B;
+    font-family: 'Yeseva One', cursive;
+    font-size: 1.31vw;
+    line-height: 1.5vw;
+}
+#G2{
+    margin-right: 6.4%;
+}
+
+.Line{
+    display: grid;
+    background-color: #cc9900;
+    color:#cc9900;
+    border:none;
+    margin: 0px;
+    width: 100%;
+    height:1px;
+    grid-area: C;
+    line-height: 1.5vw;
+}
+
+.Resipe{
+    display: grid;
+    margin: 0px;
+    color:rgb(76,76,76);
+    grid-area: D;
+    font-size: 1vw;
+    font-family: 'Lato', sans-serif;
+    text-align: start;
+    line-height: 1.5vw;
+
+}
+
+
+
+.image5{
+    position: relative;
+    width:100%;
+    height:100%;
+}
+
+.workArea2{
+    position: absolute;
+    left:25.9375%;
+    top:6.55vw;
+    width: 48.125%;
+    height: 34.3vw;
+    background-color: rgba(0, 0, 0, 0.67);
+   
+}
+
+.GuestReviews{
+    position: relative;
+    font-family: 'Yeseva One';
+    text-align: center;
+    font-size: 2.34vw;
+    margin: 0px;
+    top: 13.6%;
+
+}
+
+.decor4{
+    position: absolute;
+    top: 23.8779%;
+    left:34%;
+    width: 32.07%;
+}
+
+.blablabla3{
+    font-family: 'Gentium Book Basic', serif;
+    position: absolute;
+    Left:9.9%;
+    top: 32.5%;
+    margin: 0px;
+    font-size: 1.53vw;
+    text-align: center;
+    line-height: 2.5vw;
+}
+
+.Guest{
+    position: absolute;
+    font-size: 1.17vw;
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+    top: 78.28%;
+    left:38.5%;
+}
+
+.quotes{
+    position: absolute;
+    font-size: 6vw;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(156,159,155);
+    top:28%;
+    left: 2vw;
+    margin: 0%;
+}
+
+.image6{
+    position: relative;
+    width: 100%;
+    
+}
+
+.ReservationMenu{
+    display: grid;
+    position: absolute;
+    top:6.25vw;
+    left:13.4375vw;
+    width:68.75%;
+    height:31.6875vw;
+    grid-template-columns: 35.625vw;
+    grid-template-areas: 
+        "A B";
+    gap:6.25vw;
+
+}
+
+.TwoImages{
+    display: grid;
+    grid-template-areas: 
+    "A B";
+    gap:1.875vw;
+    grid-area: A;
+
+}
+
+.LeftImage{
+    display: grid;
+    width: 16.875vw;
+    grid-area: A;
+}
+.RightImage{
+    display: grid;
+    width: 16.875vw;
+    grid-area: B;
+}
+
+.TextAndInput{
+    display: grid;
+    grid-area: B;
+    grid-template-areas:
+        "A"
+        "B"
+        "C"
+        "D"
+        "E";
+    gap:1px;
+    grid-template-rows: 6.69% 12.04% 37% 29.07% 14.5%;
+}
+
+.RightFood2{
+    display:grid;
+    grid-area: A;
+    font-family: 'Yeseva One';
+    font-size: 2.34vw;
+    text-align: center;
+    color: rgb(204, 153, 0);
+    margin: 0px;
+}
+
+.decor{
+    display:grid;
+    justify-items: center;
+    align-items: center;
+
+    grid-area: B;
+    margin:0px;
+   
+}
+
+.decor5{
+      width: 15.4375vw;
+}
+
+.textinfo{
+    display: grid;
+    grid-area: C;
+   
+    margin: 0px;
+    
+}
+
+.blablabla4{
+    color:black;
+    margin: 0px;
+    /* border: red 1px solid; */
+    font-family: 'Lato', sans-serif;
+    font-size: 0.95vw;
+    line-height: 1.5vw;
+    color:rgb(76,76,76);
+    text-align: center;
+}
+
+.blablabla5{
+    color:black;
+    margin: 0px;
+    margin-top: -3.94%;
+    /* border: red 1px solid; */
+    color:rgb(76,76,76);
+    font-family: 'Lato', sans-serif;
+    font-size: 0.95vw;
+    line-height: 1.5vw;
+    text-align: center;
+}
+
+.InputBox{
+    width: 100%;
+    height: 100%;
+    display:grid;
+    grid-area: D;
+    grid-template-areas: 
+        "A B"
+        "C D";
+    column-gap:1.875vw;
+    row-gap: 0vw;
+    align-items: start;
+}
+
+
+.Name{
+    display: grid;
+    grid-area: A;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875vw;
+
+}
+
+.LabelName{
+    margin-bottom: 0.3vw;
+    color: #c9a131;
+}
+
+.InputName{
+    height: 2vw;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+.LabelEmail{
+    margin-bottom: 0.3vw;
+    color: #c9a131;
+}
+
+
+.Email{
+    display: grid;
+    grid-area: B;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875vw;
+}
+
+.InputEmail{
+    height: 2vw;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+
+}
+
+.LabelDate{
+    margin-bottom: 0.3vw;
+    color: #c9a131;
+}
+
+
+.Date{
+    display: grid;
+    grid-area: C;
+   
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875vw;
+}
+
+.InputDate{
+    height: 2vw;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+
+.LabelNumber{
+    color: #c9a131;
+    margin-bottom: 0.3vw;
+}
+
+
+.Number{
+    display: grid;
+    grid-area: D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875vw;
+}
+
+.InputNumber{
+    height: 2vw;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+
+.button{
+    margin: 0px;
+    display: grid;
+    grid-area: E;
+    align-items: end;
+    justify-content: center;
+}
+
+.InputButton{
+   
+   background-color: #c89f2d;
+   border: 0px;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 1vw;
+   color: white;
+    width: 12.5vw;
+    height: 2.25vw;
+}
+
+
+.InputButton:hover{
+    cursor:pointer;
+}
+
+.image7{
+    position: relative;
+}
+
+.Part1Name{
+    position: absolute;
+    margin: 0px;
+    left:22%;
+    top:3.81vw;
+    font-family: 'Yeseva One', cursive;
+    font-size: 1.31vw;
+}
+
+.decor6{
+    position: absolute;
+    width: 12.44%;
+    margin:0px;
+    left:18.75%;
+    top:6.06vw;
+
+}
+
+.blablabla6{
+    position: absolute;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+    left: 14.2%;
+    top:8.68vw;
+    font-size: 1vw;
+    line-height: 1.5vw;
+}
+
+.Part2Name{
+    position: absolute;
+    margin: 0px;
+    left:45.125%;
+    top:3.81vw;
+    font-family: 'Yeseva One', cursive;
+    font-size: 1.31vw;
+}
+
+.decor7{
+    position: absolute;
+    width: 12.44%;
+    margin:0px;
+    left:43.81%;
+    top:6.06vw;
+
+}
+
+.OpeningHours{
+    position: absolute;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+    left: 44%;
+    top:8.68vw;
+    font-size: 1vw;
+    line-height: 1.5vw;
+}
+
+.Part3Name{
+    position: absolute;
+    margin: 0px;
+    left:70.75%;
+    top:3.81vw;
+    font-family: 'Yeseva One', cursive;
+    font-size: 1.31vw;
+}
+
+.decor8{
+    position: absolute;
+    width: 12.44%;
+    margin:0px;
+    left:68.81%;
+    top:6.06vw;
+
+}
+
+.Location{
+    position: absolute;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+    left:68.81%;
+    top:8.68vw;
+    font-size: 1vw;
+    line-height: 1.5vw;
+}
+
+.LowIcons{
+    display: grid;
+    position: absolute;
+    top:14.5vw;
+    left: 72.56%;
+    width:5.5vw;
+    height: 1.06vw;
+    justify-content: space-between; 
+    grid-template-areas: 
+    "A B C D";
+
+}
+
+.iconF{
+    display: grid;
+    font-size: 1vw;
+    grid-area: A;
+}
+
+#F{
+    font-size: 1vw;
+    color: white;
+}
+
+
+.iconY{
+    display: grid;  
+    grid-area: B;
+    font-size: 1vw;
+}
+
+#Y{
+    font-size: 1vw;
+    color: white;
+}
+
+.iconT{
+    display: grid;
+    font-size: 1vw;
+    grid-area: C;
+}
+#T{
+    font-size: 1vw;
+    color: white;
+}
+
+
+.iconTr{
+    display: grid;
+    font-size: 1vw;
+    grid-area: D;
+}
+
+#Tr{
+    font-size: 1vw;
+    color: white;
+}
+
+.PaySystems{
+    display: grid;
+    position: absolute;
+    top:14.5vw;
+    left: 46.5%;
+    width:7.5vw;
+    height: 0.9375vw;
+    justify-content: space-between; 
+    grid-template-areas: 
+    "A B C D";
+}
+
+.iconPP{
+    display: grid;
+    font-size: 1vw;
+    grid-area: A;
+    color:white;
+} 
+
+.iconPP{
+    display: grid;
+    font-size: 1vw;
+    grid-area: B;
+    color:white;
+}
+
+.iconV{
+    display: grid;
+    font-size: 1vw;
+    grid-area: C;
+    color:white;
+}
+
+.iconD{
+    display: grid;
+    font-size: 1vw;
+    grid-area: D;
+    color:white;
+}
+
